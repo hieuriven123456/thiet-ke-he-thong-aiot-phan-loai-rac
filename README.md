@@ -4,7 +4,7 @@
 
 Đề tài xây dựng một **hệ thống thùng rác thông minh ứng dụng AIoT**, có khả năng **tự động nhận diện và phân loại rác** ngay tại nguồn, đồng thời **dự báo thời gian thùng rác đầy** nhằm hỗ trợ công tác thu gom hiệu quả hơn.
 
-Hệ thống kết hợp **Edge AI (AI tại biên)** chạy trực tiếp trên **ESP32-CAM** để xử lý hình ảnh và **Machine Learning tại Server** do "ESP32 guử len để dự đoán thời gian đầy của thùng rác.
+Hệ thống kết hợp **Edge AI (AI tại biên)** chạy trực tiếp trên **ESP32-CAM** để xử lý hình ảnh và **Machine Learning tại Server** do "ESP32 gửi lên để dự đoán thời gian đầy của thùng rác.
 
 ---
 
